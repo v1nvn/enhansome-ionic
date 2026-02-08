@@ -66,7 +66,7 @@
             "last_commit": "2026-02-06T23:59:56Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52337
+            "stars": 52341
           }
         },
         {
@@ -79,7 +79,7 @@
             "last_commit": "2026-01-30T02:54:33Z",
             "owner": "riderx",
             "repo": "awesome-capacitor",
-            "stars": 598
+            "stars": 599
           }
         }
       ],
@@ -95,7 +95,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-02-06T09:45:37Z",
+            "last_commit": "2026-02-07T09:42:32Z",
             "owner": "ionic-team",
             "repo": "starters",
             "stars": 477
@@ -619,7 +619,7 @@
             "last_commit": "2025-05-26T18:32:18Z",
             "owner": "text-mask",
             "repo": "text-mask",
-            "stars": 8239
+            "stars": 8238
           }
         }
       ],
@@ -851,7 +851,7 @@
             "last_commit": "2016-05-26T16:46:06Z",
             "owner": "rossmartin",
             "repo": "video-editor-ionic2",
-            "stars": 73
+            "stars": 74
           }
         },
         {
@@ -1226,10 +1226,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:27:54.566Z",
+    "last_updated": "2026-02-08T04:24:56.426Z",
     "original_repository": "candelibas/awesome-ionic",
     "source_repository": "v1nvn/enhansome-ionic",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome Ionic with stars"
   }
 }

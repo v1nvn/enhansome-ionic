@@ -58,9 +58,9 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Official Resources
 
-* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,337 | 🐛 639 | 🌐 TypeScript | 📅 2026-02-06
+* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,341 | 🐛 639 | 🌐 TypeScript | 📅 2026-02-06
 * [Ionic Native](https://github.com/driftyco/ionic-native/) ⭐ 2,451 | 🐛 13 | 🌐 TypeScript | 📅 2026-02-02
-* [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) ⭐ 598 | 🐛 2 | 🌐 HTML | 📅 2026-01-30
+* [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) ⭐ 599 | 🐛 2 | 🌐 HTML | 📅 2026-01-30
 * [Site](http://ionicframework.com/)
 * [Blog](http://blog.ionic.io/)
 * [Documentation](https://ionicframework.com/docs)
@@ -220,7 +220,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,675 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27
 
-* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 477 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-06
+* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 477 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-07
 
 * [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ⚠️ Archived
 
@@ -295,7 +295,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ### Input - Date/Calendar
 
-* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,239 | 🐛 334 | 🌐 JavaScript | 📅 2025-05-26
+* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,238 | 🐛 334 | 🌐 JavaScript | 📅 2025-05-26
 * [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,813 | 🐛 96 | 🌐 TypeScript | 📅 2025-09-01  (very powerful)
 * [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar) ⭐ 552 | 🐛 167 | 🌐 TypeScript | 📅 2022-12-08
 * [Calendar](https://github.com/twinssbc/Ionic2-Calendar) ⭐ 389 | 🐛 114 | 🌐 TypeScript | 📅 2025-07-27
@@ -333,7 +333,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 ### Video/Audio
 
 * [Simple Audioplayer](https://github.com/arielfaur/ionic-audio) ⭐ 320 | 🐛 68 | 🌐 CSS | 📅 2018-03-12
-* [Video Editor](https://github.com/rossmartin/video-editor-ionic2) ⭐ 73 | 🐛 5 | 🌐 JavaScript | 📅 2016-05-26
+* [Video Editor](https://github.com/rossmartin/video-editor-ionic2) ⭐ 74 | 🐛 5 | 🌐 JavaScript | 📅 2016-05-26
 
 ### Keyboards
 
