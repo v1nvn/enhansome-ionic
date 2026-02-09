@@ -58,8 +58,8 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Official Resources
 
-* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,341 | 🐛 639 | 🌐 TypeScript | 📅 2026-02-06
-* [Ionic Native](https://github.com/driftyco/ionic-native/) ⭐ 2,451 | 🐛 13 | 🌐 TypeScript | 📅 2026-02-02
+* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,345 | 🐛 639 | 🌐 TypeScript | 📅 2026-02-06
+* [Ionic Native](https://github.com/driftyco/ionic-native/) ⭐ 2,451 | 🐛 14 | 🌐 TypeScript | 📅 2026-02-09
 * [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) ⭐ 599 | 🐛 2 | 🌐 HTML | 📅 2026-01-30
 * [Site](http://ionicframework.com/)
 * [Blog](http://blog.ionic.io/)
@@ -220,7 +220,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,675 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27
 
-* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 477 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-07
+* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 477 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-08
 
 * [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ⚠️ Archived
 
@@ -309,7 +309,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 ### Lists/Table
 
 * [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ⭐ 4,670 | 🐛 912 | 🌐 TypeScript | 📅 2025-08-20
-* [Smart table (sorting, filtering)](https://github.com/akveo/ng2-smart-table) ⭐ 1,628 | 🐛 957 | 🌐 TypeScript | 📅 2024-08-12
+* [Smart table (sorting, filtering)](https://github.com/akveo/ng2-smart-table) ⭐ 1,627 | 🐛 957 | 🌐 TypeScript | 📅 2024-08-12
 * [Sortable/Filter Tables](https://github.com/valor-software/ng2-table) ⭐ 550 | 🐛 319 | 🌐 TypeScript | 📅 2022-10-26
 
 ### Images
