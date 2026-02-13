@@ -58,8 +58,8 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Official Resources
 
-* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,356 | 🐛 641 | 🌐 TypeScript | 📅 2026-02-12
-* [Ionic Native](https://github.com/driftyco/ionic-native/) ⭐ 2,451 | 🐛 13 | 🌐 TypeScript | 📅 2026-02-09
+* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,357 | 🐛 641 | 🌐 TypeScript | 📅 2026-02-13
+* [Ionic Native](https://github.com/driftyco/ionic-native/) ⭐ 2,451 | 🐛 13 | 🌐 TypeScript | 📅 2026-02-12
 * [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) ⭐ 600 | 🐛 2 | 🌐 HTML | 📅 2026-01-30
 * [Site](http://ionicframework.com/)
 * [Blog](http://blog.ionic.io/)
@@ -220,7 +220,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,675 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27
 
-* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 477 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-11
+* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 477 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-12
 
 * [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ⚠️ Archived
 
@@ -296,7 +296,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 ### Input - Date/Calendar
 
 * [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,238 | 🐛 334 | 🌐 JavaScript | 📅 2025-05-26
-* [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,814 | 🐛 96 | 🌐 TypeScript | 📅 2025-09-01  (very powerful)
+* [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,815 | 🐛 96 | 🌐 TypeScript | 📅 2025-09-01  (very powerful)
 * [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar) ⭐ 552 | 🐛 167 | 🌐 TypeScript | 📅 2022-12-08
 * [Calendar](https://github.com/twinssbc/Ionic2-Calendar) ⭐ 389 | 🐛 114 | 🌐 TypeScript | 📅 2025-07-27
 * [Rating](https://github.com/andrucz/ionic2-rating) ⭐ 177 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-06
