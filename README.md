@@ -58,9 +58,9 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Official Resources
 
-* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,357 | 🐛 641 | 🌐 TypeScript | 📅 2026-02-13
-* [Ionic Native](https://github.com/driftyco/ionic-native/) ⭐ 2,451 | 🐛 13 | 🌐 TypeScript | 📅 2026-02-12
-* [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) ⭐ 600 | 🐛 2 | 🌐 HTML | 📅 2026-01-30
+* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,352 | 🐛 639 | 🌐 TypeScript | 📅 2026-02-14
+* [Ionic Native](https://github.com/driftyco/ionic-native/) ⭐ 2,449 | 🐛 13 | 🌐 TypeScript | 📅 2026-02-12
+* [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) ⭐ 601 | 🐛 2 | 🌐 HTML | 📅 2026-01-30
 * [Site](http://ionicframework.com/)
 * [Blog](http://blog.ionic.io/)
 * [Documentation](https://ionicframework.com/docs)
@@ -218,9 +218,9 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Boilerplate/Demo Apps
 
-* [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,675 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27
+* [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,673 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27
 
-* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 477 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-12
+* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 477 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-13
 
 * [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ⚠️ Archived
 
@@ -290,7 +290,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 * [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ⭐ 482 | 🐛 123 | 🌐 TypeScript | 📅 2025-11-20
 * [Autocomplete](https://github.com/kadoshms/ionic2-autocomplete) ⭐ 147 | 🐛 33 | 🌐 TypeScript | 📅 2023-10-10
 * [Masks](https://github.com/amarkes/br-mask) ⭐ 117 | 🐛 28 | 🌐 TypeScript | 📅 2023-06-09
-* [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs) ⭐ 47 | 🐛 0 | 🌐 TypeScript | 📅 2017-01-27
+* [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2017-01-27
 * [Form Builder](https://github.com/rohitg7/ionic2-form-builder) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2016-11-28
 
 ### Input - Date/Calendar
@@ -309,7 +309,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 ### Lists/Table
 
 * [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ⭐ 4,671 | 🐛 912 | 🌐 TypeScript | 📅 2025-08-20
-* [Smart table (sorting, filtering)](https://github.com/akveo/ng2-smart-table) ⭐ 1,627 | 🐛 957 | 🌐 TypeScript | 📅 2024-08-12
+* [Smart table (sorting, filtering)](https://github.com/akveo/ng2-smart-table) ⭐ 1,625 | 🐛 957 | 🌐 TypeScript | 📅 2024-08-12
 * [Sortable/Filter Tables](https://github.com/valor-software/ng2-table) ⭐ 550 | 🐛 319 | 🌐 TypeScript | 📅 2022-10-26
 
 ### Images
@@ -325,7 +325,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ### Charts/Diagram
 
-* [Charts](https://github.com/valor-software/ng2-charts) ⭐ 2,393 | 🐛 78 | 🌐 TypeScript | 📅 2025-01-06
+* [Charts](https://github.com/valor-software/ng2-charts) ⭐ 2,390 | 🐛 78 | 🌐 TypeScript | 📅 2025-01-06
 * [D3 Service](https://github.com/tomwanzek/d3-ng2-service) ⭐ 205 | 🐛 15 | 🌐 TypeScript | 📅 2020-03-26
 * [D3 Angular Examples](https://github.com/datencia/d3js-angular-examples) ⭐ 200 | 🐛 14 | 🌐 TypeScript | 📅 2023-03-02
 * [D3 Line/Bar/Pie Charts](https://github.com/datencia/d3js-angular2-example) ⭐ 200 | 🐛 14 | 🌐 TypeScript | 📅 2023-03-02
@@ -333,7 +333,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 ### Video/Audio
 
 * [Simple Audioplayer](https://github.com/arielfaur/ionic-audio) ⭐ 320 | 🐛 68 | 🌐 CSS | 📅 2018-03-12
-* [Video Editor](https://github.com/rossmartin/video-editor-ionic2) ⭐ 74 | 🐛 5 | 🌐 JavaScript | 📅 2016-05-26
+* [Video Editor](https://github.com/rossmartin/video-editor-ionic2) ⭐ 73 | 🐛 5 | 🌐 JavaScript | 📅 2016-05-26
 
 ### Keyboards
 
@@ -349,7 +349,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Open Source Projects
 
-* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,608 | 🐛 24 | 🌐 TypeScript | 📅 2026-02-11
+* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,607 | 🐛 24 | 🌐 TypeScript | 📅 2026-02-11
 * [IonicRealty](https://github.com/ccoenraets/ionic2-realty) ⭐ 256 | 🐛 8 | 🌐 JavaScript | 📅 2016-11-15
 * [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum) ⭐ 244 | 🐛 5 | 🌐 TypeScript | 📅 2021-07-09
 * [Ionic 5 Social Network Starter](https://github.com/thenaim/ion-tk-social-network) ⭐ 164 | 🐛 17 | 🌐 TypeScript | 📅 2023-01-07
@@ -357,7 +357,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 * [Ionic Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader) ⭐ 125 | 🐛 2 | 🌐 TypeScript | 📅 2017-12-11
 * [Ionic 5 WhatsApp clone](https://github.com/thenaim/ionic-whatsapp-clone) ⭐ 62 | 🐛 1 | 🌐 TypeScript | 📅 2020-11-20
 * [Playing music in Ionic 4](https://github.com/enappd/ionic-4-music) ⭐ 47 | 🐛 1 | 🌐 TypeScript | 📅 2019-10-29
-* [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat) ⭐ 37 | 🐛 2 | 🌐 TypeScript | 📅 2017-03-13
+* [Ionic Firebase Chat App](https://github.com/ionic2blueprints/firebase-chat) ⭐ 36 | 🐛 2 | 🌐 TypeScript | 📅 2017-03-13
 * [Ionic Media Player](https://github.com/ionic2blueprints/media-player) ⭐ 30 | 🐛 1 | 🌐 TypeScript | 📅 2017-04-03
 * [Ionic aiEyes - Azure Computer Vision API](https://github.com/brenopolanski/aiEyes) ⚠️ Archived
 * [Ionic Social App](https://github.com/ionic2blueprints/social-app) ⭐ 27 | 🐛 0 | 🌐 TypeScript | 📅 2016-09-28
